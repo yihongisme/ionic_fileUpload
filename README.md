@@ -1,4 +1,4 @@
-# ionic_fileUpload
+# ionic_fileUpload         IOS can't upload
 cordova file upload
 
 //file upload
