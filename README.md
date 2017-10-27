@@ -5,6 +5,7 @@ cordova file upload
 //add cordova plugin 
 
 //File Chooser
+
 //$ ionic cordova plugin add cordova-plugin-filechooser
 //$ npm install --save @ionic-native/file-chooser
 //import { FileChooser } from '@ionic-native/file-chooser';
